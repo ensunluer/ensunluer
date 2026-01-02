@@ -1,2 +1,2 @@
-I’m a frontend developer with over 4 years of hands-on experience in React, Next.js, and modern web technologies. I’ve been working in the e-commerce space for more than 6 years, where I’ve delivered user-focused, scalable solutions. I care about clean design, smooth collaboration, and constantly improving my skills to build better digital products.
+I’m a frontend developer with over 5 years of hands-on experience in React, Next.js, and modern web technologies. I’ve been working in the e-commerce space for more than 7 years, where I’ve delivered user-focused, scalable solutions. I care about clean design, smooth collaboration, and constantly improving my skills to build better digital products.
 **[Linkedin](https://www.linkedin.com/in/enes-%C3%BCnl%C3%BCer-2a7a0612b)**
